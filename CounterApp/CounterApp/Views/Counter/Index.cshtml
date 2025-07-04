@@ -1,0 +1,19 @@
+﻿@model int
+@{
+	ViewData["Title"] = "Counter";
+}
+
+<h2>
+	@*in place of @Model the value of _count will be placed*@
+	 Current value :<span id="counter">@Model</span>       
+	</h2>
+
+<form asp-action="Increment" >
+	 @* Submits to the Increment action (POST), then reloads the page *@
+
+	<button class="btn btn-success">Increment</button>
+
+</form>
+<form asp-action="Decrement">
+	<button class="btn btn-danger">Decrement</button>
+</form>

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cog_work\\web_apps\\PlayersInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|d:\\cog_work\\web_apps\\playersinfo\\playersinfo\\playersinfo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|solutionrelative:playersinfo\\playersinfo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|d:\\cog_work\\web_apps\\playersinfo\\playersinfo\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|solutionrelative:playersinfo\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|d:\\cog_work\\web_apps\\playersinfo\\playersinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|solutionrelative:playersinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|d:\\cog_work\\web_apps\\playersinfo\\playersinfo\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|solutionrelative:playersinfo\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|d:\\cog_work\\web_apps\\playersinfo\\playersinfo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|solutionrelative:playersinfo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|d:\\cog_work\\web_apps\\playersinfo\\playersinfo\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5592471-8966-471A-A33A-9A9F31087AD8}|PlayersInfo\\PlayersInfo.csproj|solutionrelative:playersinfo\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayersInfo",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\PlayersInfo.csproj",
+              "RelativeDocumentMoniker": "PlayersInfo\\PlayersInfo.csproj",
+              "ToolTip": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\PlayersInfo.csproj",
+              "RelativeToolTip": "PlayersInfo\\PlayersInfo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-04T10:23:16.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\Program.cs",
+              "RelativeDocumentMoniker": "PlayersInfo\\Program.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\Program.cs",
+              "RelativeToolTip": "PlayersInfo\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:00:10.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\Views\\Info\\Index.cshtml",
+              "RelativeDocumentMoniker": "PlayersInfo\\Views\\Info\\Index.cshtml",
+              "ToolTip": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\Views\\Info\\Index.cshtml",
+              "RelativeToolTip": "PlayersInfo\\Views\\Info\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwDUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T09:52:52.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PlayersInfo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PlayersInfo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T09:38:34.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "PlayersInfo\\Models\\Player.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\Models\\Player.cs",
+              "RelativeToolTip": "PlayersInfo\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:54:40.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfoController.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\Controllers\\InfoController.cs",
+              "RelativeDocumentMoniker": "PlayersInfo\\Controllers\\InfoController.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\PlayersInfo\\PlayersInfo\\Controllers\\InfoController.cs",
+              "RelativeToolTip": "PlayersInfo\\Controllers\\InfoController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:11:48.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

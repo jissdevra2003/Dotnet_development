@@ -1,0 +1,63 @@
+﻿@using PlayersInfo.Models
+
+
+
+
+@{
+    ViewData["Title"] = "Football Squad";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<hr />
+
+<!-- 1. ViewBag: Single Player -->
+<h2>ViewBag Single Player</h2>
+@if(ViewBag.One is Player p) 
+{
+<p>Team: @p.TeamName</p>
+<p>Player: @p.Name</p>
+<p>Jersey #: @p.JerseyNumber</p>
+}
+else {
+    <p>No player</p>
+}
+<hr />
+
+<!-- 2. ViewData: Squad List -->
+<h2>ViewData Squad List</h2>
+@if(ViewData["Players"] is List<Player> squad) 
+    {
+<table>
+    <thead>
+        <tr>
+            <th>Team</th>
+            <th>Player</th>
+            <th>Jersey #</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var player in squad)
+        {
+            <tr>
+                <td>@player.TeamName</td>
+                <td>@player.Name</td>
+                <td>@player.JerseyNumber</td>
+            </tr>
+        }
+    </tbody>
+    </table>
+}
+else
+{
+    <p>No players availabe</p>
+}
+
+<hr />
+
+<!-- 3. TempData: Status Message -->
+<h2>TempData Status Message</h2>
+@if (TempData["Message"] != null)
+{
+    <p style="color: green;">@TempData["Message"]</p>
+}

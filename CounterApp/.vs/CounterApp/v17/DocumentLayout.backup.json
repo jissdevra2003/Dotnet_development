@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cog_work\\web_apps\\CounterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BFF757-7E56-4E1F-90BD-C08124A59E7F}|CounterApp\\CounterApp.csproj|d:\\cog_work\\web_apps\\counterapp\\counterapp\\views\\counter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6BFF757-7E56-4E1F-90BD-C08124A59E7F}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\views\\counter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BFF757-7E56-4E1F-90BD-C08124A59E7F}|CounterApp\\CounterApp.csproj|d:\\cog_work\\web_apps\\counterapp\\counterapp\\controllers\\countercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6BFF757-7E56-4E1F-90BD-C08124A59E7F}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\controllers\\countercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BFF757-7E56-4E1F-90BD-C08124A59E7F}|CounterApp\\CounterApp.csproj|d:\\cog_work\\web_apps\\counterapp\\counterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6BFF757-7E56-4E1F-90BD-C08124A59E7F}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\CounterApp\\CounterApp\\Program.cs",
+              "RelativeDocumentMoniker": "CounterApp\\Program.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\CounterApp\\CounterApp\\Program.cs",
+              "RelativeToolTip": "CounterApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:00:34.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\CounterApp\\CounterApp\\Views\\Counter\\Index.cshtml",
+              "RelativeDocumentMoniker": "CounterApp\\Views\\Counter\\Index.cshtml",
+              "ToolTip": "D:\\cog_work\\web_apps\\CounterApp\\CounterApp\\Views\\Counter\\Index.cshtml",
+              "RelativeToolTip": "CounterApp\\Views\\Counter\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T10:48:43.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CounterController.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\CounterApp\\CounterApp\\Controllers\\CounterController.cs",
+              "RelativeDocumentMoniker": "CounterApp\\Controllers\\CounterController.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\CounterApp\\CounterApp\\Controllers\\CounterController.cs",
+              "RelativeToolTip": "CounterApp\\Controllers\\CounterController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:45:08.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

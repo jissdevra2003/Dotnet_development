@@ -1,0 +1,6 @@
+﻿
+@{
+}
+@*ViewData["Name1"] cannot be accessed here as it's scope is in the Welcome action method 
+so it will not be accessible here in Index action method*@  
+<h2>Welcome aboard @TempData["Name"] @ViewData["Name1"]</h2>
