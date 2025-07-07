@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cog_work\\web_apps\\TemperatureLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7DDD40-E6A4-4FFD-88B0-E280F9BBD7CD}|TemperatureLibrary\\TemperatureLibrary.csproj|d:\\cog_work\\web_apps\\temperaturelibrary\\temperaturelibrary\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7DDD40-E6A4-4FFD-88B0-E280F9BBD7CD}|TemperatureLibrary\\TemperatureLibrary.csproj|solutionrelative:temperaturelibrary\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Temperature.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\TemperatureLibrary\\TemperatureLibrary\\Temperature.cs",
+              "RelativeDocumentMoniker": "TemperatureLibrary\\Temperature.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\TemperatureLibrary\\TemperatureLibrary\\Temperature.cs*",
+              "RelativeToolTip": "TemperatureLibrary\\Temperature.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T04:28:18.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\bin\Debug\net8.0\TemperatureLibrary.deps.json
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\bin\Debug\net8.0\TemperatureLibrary.dll
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\bin\Debug\net8.0\TemperatureLibrary.pdb
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\obj\Debug\net8.0\TemperatureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\obj\Debug\net8.0\TemperatureLibrary.AssemblyInfoInputs.cache
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\obj\Debug\net8.0\TemperatureLibrary.AssemblyInfo.cs
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\obj\Debug\net8.0\TemperatureLibrary.csproj.CoreCompileInputs.cache
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\obj\Debug\net8.0\TemperatureLibrary.sourcelink.json
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\obj\Debug\net8.0\TemperatureLibrary.dll
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\obj\Debug\net8.0\refint\TemperatureLibrary.dll
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\obj\Debug\net8.0\TemperatureLibrary.pdb
+D:\cog_work\web_apps\TemperatureLibrary\TemperatureLibrary\obj\Debug\net8.0\ref\TemperatureLibrary.dll

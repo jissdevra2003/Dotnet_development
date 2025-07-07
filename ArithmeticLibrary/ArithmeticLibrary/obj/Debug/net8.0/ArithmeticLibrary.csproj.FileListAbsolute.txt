@@ -1,0 +1,12 @@
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\bin\Debug\net8.0\ArithmeticLibrary.deps.json
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\bin\Debug\net8.0\ArithmeticLibrary.dll
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\bin\Debug\net8.0\ArithmeticLibrary.pdb
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\net8.0\ArithmeticLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\net8.0\ArithmeticLibrary.AssemblyInfoInputs.cache
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\net8.0\ArithmeticLibrary.AssemblyInfo.cs
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\net8.0\ArithmeticLibrary.csproj.CoreCompileInputs.cache
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\net8.0\ArithmeticLibrary.sourcelink.json
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\net8.0\ArithmeticLibrary.dll
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\net8.0\refint\ArithmeticLibrary.dll
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\net8.0\ArithmeticLibrary.pdb
+D:\cog_work\web_apps\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\net8.0\ref\ArithmeticLibrary.dll

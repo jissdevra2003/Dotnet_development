@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cog_work\\web_apps\\MVCWithModels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F985B18-4237-4507-AA87-C13E853CDC51}|MVCWithModels\\MVCWithModels.csproj|d:\\cog_work\\web_apps\\mvcwithmodels\\mvcwithmodels\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F985B18-4237-4507-AA87-C13E853CDC51}|MVCWithModels\\MVCWithModels.csproj|solutionrelative:mvcwithmodels\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F985B18-4237-4507-AA87-C13E853CDC51}|MVCWithModels\\MVCWithModels.csproj|d:\\cog_work\\web_apps\\mvcwithmodels\\mvcwithmodels\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F985B18-4237-4507-AA87-C13E853CDC51}|MVCWithModels\\MVCWithModels.csproj|solutionrelative:mvcwithmodels\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F985B18-4237-4507-AA87-C13E853CDC51}|MVCWithModels\\MVCWithModels.csproj|d:\\cog_work\\web_apps\\mvcwithmodels\\mvcwithmodels\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F985B18-4237-4507-AA87-C13E853CDC51}|MVCWithModels\\MVCWithModels.csproj|solutionrelative:mvcwithmodels\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F985B18-4237-4507-AA87-C13E853CDC51}|MVCWithModels\\MVCWithModels.csproj|d:\\cog_work\\web_apps\\mvcwithmodels\\mvcwithmodels\\models\\order.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F985B18-4237-4507-AA87-C13E853CDC51}|MVCWithModels\\MVCWithModels.csproj|solutionrelative:mvcwithmodels\\models\\order.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F985B18-4237-4507-AA87-C13E853CDC51}|MVCWithModels\\MVCWithModels.csproj|d:\\cog_work\\web_apps\\mvcwithmodels\\mvcwithmodels\\models\\product.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F985B18-4237-4507-AA87-C13E853CDC51}|MVCWithModels\\MVCWithModels.csproj|solutionrelative:mvcwithmodels\\models\\product.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\MVCWithModels\\MVCWithModels\\DBContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "MVCWithModels\\DBContext\\AppDBContext.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\MVCWithModels\\MVCWithModels\\DBContext\\AppDBContext.cs",
+              "RelativeToolTip": "MVCWithModels\\DBContext\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:10:57.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\MVCWithModels\\MVCWithModels\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVCWithModels\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\MVCWithModels\\MVCWithModels\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVCWithModels\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:10:22.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\MVCWithModels\\MVCWithModels\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "MVCWithModels\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\MVCWithModels\\MVCWithModels\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "MVCWithModels\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:01:18.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.model.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\MVCWithModels\\MVCWithModels\\Models\\Order.model.cs",
+              "RelativeDocumentMoniker": "MVCWithModels\\Models\\Order.model.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\MVCWithModels\\MVCWithModels\\Models\\Order.model.cs",
+              "RelativeToolTip": "MVCWithModels\\Models\\Order.model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:48:57.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.model.cs",
+              "DocumentMoniker": "D:\\cog_work\\web_apps\\MVCWithModels\\MVCWithModels\\Models\\Product.model.cs",
+              "RelativeDocumentMoniker": "MVCWithModels\\Models\\Product.model.cs",
+              "ToolTip": "D:\\cog_work\\web_apps\\MVCWithModels\\MVCWithModels\\Models\\Product.model.cs",
+              "RelativeToolTip": "MVCWithModels\\Models\\Product.model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:48:38.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
